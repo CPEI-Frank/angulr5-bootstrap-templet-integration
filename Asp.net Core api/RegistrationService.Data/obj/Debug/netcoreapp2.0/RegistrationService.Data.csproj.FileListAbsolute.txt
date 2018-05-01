@@ -1,0 +1,8 @@
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\bin\Debug\netcoreapp2.0\RegistrationService.Data.deps.json
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\bin\Debug\netcoreapp2.0\RegistrationService.Data.dll
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\bin\Debug\netcoreapp2.0\RegistrationService.Data.pdb
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\obj\Debug\netcoreapp2.0\RegistrationService.Data.csproj.CoreCompileInputs.cache
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\obj\Debug\netcoreapp2.0\RegistrationService.Data.AssemblyInfoInputs.cache
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\obj\Debug\netcoreapp2.0\RegistrationService.Data.AssemblyInfo.cs
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\obj\Debug\netcoreapp2.0\RegistrationService.Data.dll
+C:\Users\pgovind.NAROLA\source\repos\RegistrationService\RegistrationService.Data\obj\Debug\netcoreapp2.0\RegistrationService.Data.pdb

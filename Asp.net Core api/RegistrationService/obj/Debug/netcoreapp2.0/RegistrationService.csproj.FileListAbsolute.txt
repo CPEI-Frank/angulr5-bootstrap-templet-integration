@@ -1,0 +1,14 @@
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.Data.dll
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.csprojResolveAssemblyReference.cache
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.csproj.CoreCompileInputs.cache
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.AssemblyInfoInputs.cache
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.AssemblyInfo.cs
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.deps.json
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.runtimeconfig.json
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.runtimeconfig.dev.json
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.dll
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.pdb
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\bin\Debug\netcoreapp2.0\RegistrationService.Data.pdb
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.csproj.CopyComplete
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.dll
+c:\users\pgovind.narola\source\repos\RegistrationService\RegistrationService\obj\Debug\netcoreapp2.0\RegistrationService.pdb

@@ -1,0 +1,19 @@
+<p>
+  dashboard works!
+</p>
+<div class="table-responsive">
+<table class="table table-bordered table-hover table-condensed">
+  <tr *ngFor="let person of data.hnData">
+    <td>{{person.id}}</td>
+    <td>{{person.title}}</td>
+    <td>{{person.points}}</td>
+    <td>{{person.user}}</td>  
+    <td>{{person.time}}</td>
+    <td>{{person.time_ago}}</td>
+    <td>{{person.comments_count}}</td>
+    <td>{{person.type}}</td>
+    <td><a [href]="person.url"> {{person.url}}</a></td>
+    <td> <a [href]="person.url">{{person.domain}}</a></td>
+  </tr>
+</table>
+</div>

@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="row">
+    <h1>User</h1>
+    <div class="col-md-12 ">
+      <div class="table-responsive">
+        <table class="table table-bordered table-hover table-condensed">
+          <thead>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>User Name</th>
+          </thead>
+          <tr *ngFor="let person of user">
+            <td>{{person.firstName | uppercase}}</td>
+            <td>{{person.lastName| uppercase}}</td>
+            <td>{{person.email | uppercase }}</td>
+            <td>{{person.userName | uppercase}}</td>
+          </tr>
+        </table>
+        <ul>
+            <li *ngFor="let hero of user"> {{hero.firstName | uppercase}} {{hero.lastName | uppercase}}  </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

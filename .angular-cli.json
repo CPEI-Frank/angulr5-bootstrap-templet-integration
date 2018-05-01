@@ -1,0 +1,81 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "project": {
+    "name": "angular5-routing"
+  },
+  "apps": [
+    {
+      "root": "src",
+      "outDir": "dist",
+      "assets": [
+        "assets",
+        "favicon.ico"
+      ],
+      "index": "index.html",
+      "main": "main.ts",
+      "polyfills": "polyfills.ts",
+      "test": "test.ts",
+      "tsconfig": "tsconfig.app.json",
+      "testTsconfig": "tsconfig.spec.json",
+      "prefix": "app",
+      "styles": [
+        "styles.css",        
+        "./assets/scripts/ionicons/css/ionicons.min.css",   
+        "./assets/scripts/toast/jquery.toast.min.css",
+        "./assets/scripts/owlcarousel/dist/assets/owl.carousel.min.css",
+        "./assets/scripts/owlcarousel/dist/assets/owl.theme.default.min.css",
+        "./assets/scripts/magnific-popup/dist/magnific-popup.css",
+        "./assets/scripts/sweetalert/dist/sweetalert.css",
+        "./assets/css/style.css",
+        "./assets/css/skins/all.css",
+        "./assets/css/demo.css"
+
+      ],
+      "scripts": ["../node_modules/jquery/jquery.min.js",
+        "./assets/js/jquery.migrate.js",
+      "../node_modules/popper.js/dist/umd/popper.min.js",    
+      "./assets/scripts/jquery-number/jquery.number.min.js",
+      "./assets/scripts/owlcarousel/dist/owl.carousel.min.js",
+      "./assets/scripts/magnific-popup/dist/jquery.magnific-popup.min.js",
+      "./assets/scripts/easescroll/jquery.easeScroll.js",
+      "./assets/scripts/sweetalert/dist/sweetalert.min.js",
+      "./assets/scripts/toast/jquery.toast.min.js",
+      "./assets/js/demo.js",
+      "./assets/js/e-magz.js"
+    ],
+      "environmentSource": "environments/environment.ts",
+      "environments": {
+        "dev": "environments/environment.ts",
+        "prod": "environments/environment.prod.ts"
+      }
+    }
+  ],
+  "e2e": {
+    "protractor": {
+      "config": "./protractor.conf.js"
+    }
+  },
+  "lint": [
+    {
+      "project": "src/tsconfig.app.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
+      "project": "src/tsconfig.spec.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
+      "project": "e2e/tsconfig.e2e.json",
+      "exclude": "**/node_modules/**"
+    }
+  ],
+  "test": {
+    "karma": {
+      "config": "./karma.conf.js"
+    }
+  },
+  "defaults": {
+    "styleExt": "css",
+    "component": {}
+  }
+}
